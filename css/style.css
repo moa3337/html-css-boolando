@@ -45,3 +45,44 @@ video {
     padding: 10px;
 }
 
+.row{
+    width: 20%;
+    margin: auto;
+}
+
+.suit{
+    display: inline-block;
+    position: relative;
+}
+
+.discount{
+    position: absolute;
+    background-color: red;
+    color: white;
+    font-size: 0.6rem;
+    padding: 0.2rem;
+    bottom: 7rem;
+    left: 0;
+}
+
+.eco{
+    position: absolute;
+    background-color: green;
+    color: white;
+    font-size: 0.6rem;
+    padding: 0.2rem;
+    bottom: 7rem;
+    left: 2.5rem;
+}
+
+.watchlist{
+    position: absolute;
+    background-color: white;
+    font-size: 1.3rem;
+    padding: 0.5rem;
+    color: black;
+    right: 0;
+    top: 0.5rem;
+}
+
+
