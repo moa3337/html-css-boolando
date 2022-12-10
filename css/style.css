@@ -58,7 +58,7 @@ a > img{
     display: inline-block;
     position: relative;
     width: 20%;
-    margin: 0 5px;
+    margin: 0 3px;
 }
 
 .second{
@@ -115,18 +115,23 @@ a > img{
 /*fine effetto*/
 
 .brand{
-    font-size: 13px;
+    font-size: 11px;
     color: grey;
 }
 
+.collezione{
+    font-size: 0.7rem;
+}
+
+
 .price{
-    font-size: 14px;
+    font-size: 11px;
     color: red;
     font-weight: 600;
 }
 
 .old-price{
-    font-size: 14px;
+    font-size: 11px;
     text-decoration: line-through;
 }
 
